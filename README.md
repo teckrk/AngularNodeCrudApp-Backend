@@ -1,7 +1,7 @@
 <h1>AngularNodeCrudApp-Backend</h1>
 
 <img src="Screenshot (20).png" alt="Project Overview" width="100%" />
-<img src="https://via.placeholder.com/800x400" alt="API Flow" width="100%" />
+<img src="Screenshot (21).png" alt="API Flow" width="100%" />
 
 <h2>📋 Project Overview</h2>
 <p>
